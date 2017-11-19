@@ -6,7 +6,7 @@
  * @wordpress-plugin
  * Plugin Name:       Kntnt's Row Closer for Beaver Builder Page Builder
  * Plugin URI:        https://github.com/TBarregren/kntnt-bb-row-closer
- * Description:       Makes it possible to close a Beaver Builder Plugin row and let it be closed in precens of a cookie.
+ * Description:       WordPress plugin that allows a row in a layout created with Beaver Builder's Page Builder to be visible for a visitor until she clicks on a configured element (e.g. a link, button, icon or the row itself) upon which the row closes and remain closed for a configured time (e.g. the session, number of days or "for ever").
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.se/
